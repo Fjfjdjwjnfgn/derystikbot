@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PPF dark bot
-// @version      2.25
+// @version      0.1
 // @author       Darkness
 // @description  Have fun
 // @icon         https://raw.githubusercontent.com/TouchedByDarkness/PixelPlanet-Bot/master/rounded-avatar-128.png
