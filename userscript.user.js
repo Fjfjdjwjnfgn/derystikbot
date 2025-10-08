@@ -8,8 +8,8 @@
 // @grant        GM_openInTab
 // @grant        unsafeWindow
 // @run-at       document-start
-// @downloadURL  https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js
-// @updateURL    https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js
+// @downloadURL  https://github.com/Fjfjdjwjnfgn/derystikbot/blob/main/userscript.user.js
+// @updateURL    https://github.com/Fjfjdjwjnfgn/derystikbot/blob/main/userscript.user.js
 // @connect      black-and-red.space
 // @connect      githubusercontent.com
 // @connect      github.com
