@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         PPF dark bot
-// @version      0.2
-// @author       Darkness
-// @description  Have fun
+// @name         Derystik bot
+// @version      0.3
+// @author       derystik
+// @description  UKR PBB
 // @icon         https://raw.githubusercontent.com/TouchedByDarkness/PixelPlanet-Bot/master/rounded-avatar-128.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
